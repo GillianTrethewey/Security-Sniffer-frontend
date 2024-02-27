@@ -126,12 +126,15 @@ These user stories ensure a seamless and user-friendly experience for creating, 
 ### Mockups
 
 #### Mobile Screen
+![Screenshot 2024-02-27 at 10 53 37 AM](https://github.com/GillianTrethewey/Security-Sniffer-frontend/assets/7611178/dd83ca86-cda6-4d64-b8d1-cb4deaa127e7)
 
 
 #### Tablet Screen
+![Screenshot 2024-02-27 at 10 53 55 AM](https://github.com/GillianTrethewey/Security-Sniffer-frontend/assets/7611178/1b37f31a-6833-4f7e-b8e3-7a7f0bd98924)
 
 
 #### Desktop Screen
+![Screenshot 2024-02-27 at 10 54 08 AM](https://github.com/GillianTrethewey/Security-Sniffer-frontend/assets/7611178/afe4a72e-6221-4531-9b88-8fc1b3b392b4)
 
 
 ### Data
